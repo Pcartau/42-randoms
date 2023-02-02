@@ -74,7 +74,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Contributing',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/blacklisted', label: 'Black listed companies', position: 'left'},
