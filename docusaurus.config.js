@@ -74,10 +74,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Contributing',
+            label: 'Ressources',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/blacklisted', label: 'Black listed companies', position: 'left'},
+          {to: '/contribute', label: 'Contribute', position: 'left'},
           {
             href: 'https://github.com/Pcartau/42-randoms',
             label: 'GitHub',
