@@ -8,4 +8,4 @@ sidebar_position: 5
 
 > **_⚠️ IMPORTANT ⚠️_**  You must relate facts. No diffamation is allowed.
 
-- Natixix (groupebpce)
+- Natixis (groupebpce) J'ai eu de très mauvais retour de 5 studs qui ont fait un stage là-bas, et moi-même j'ai vu de choses vraiment border Line limite illégal
