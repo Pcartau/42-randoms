@@ -1,0 +1,8 @@
+{
+  "label": "Books",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Recommended books. To makes you a better person."
+  }
+}

@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '42 Randoms',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'The real alumnis website',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -100,16 +100,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '42 Network',
+                href: 'https://www.42network.org/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/42',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Real Discord',
+                href: 'https://discord.gg/42-455133852336128010',
               },
             ],
           },
@@ -117,17 +117,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/Pcartau/42-randoms',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 42 Randoms.`,
       },
       prism: {
         theme: lightCodeTheme,
