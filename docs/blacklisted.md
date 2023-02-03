@@ -6,5 +6,5 @@ sidebar_position: 5
 
 ### The worst companies to work for
 
-> **_⚠️ IMPORTANT ⚠️_**  You must relact facts. No diffamation is allowed.
+> **_⚠️ IMPORTANT ⚠️_**  You must relate facts. No diffamation is allowed.
 
